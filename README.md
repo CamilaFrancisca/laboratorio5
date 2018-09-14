@@ -1,4 +1,6 @@
-### laboratorio 5
+#### Laboratorio 5
+
+---
 
 ### Plataforma MG-RAST y exploración de metagenomas
 
