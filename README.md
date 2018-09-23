@@ -28,7 +28,7 @@ Responde las siguientes preguntas asociadas a la muestra:
 
 **6.** ¿Cuál es el filo (Phylum) más abundante en la muestra? 
 
-*-* El *plylun* mas abundante es el de las cianobacterias.
+*-* El *plylum* mas abundante es el de las cianobacterias.
 
 **7.** ¿A cuántas secuencias se les asignó una función de acuerdo a la base de datos KEGG con un e-value entre -10 y -20? 
 
@@ -46,10 +46,10 @@ Responde las siguientes preguntas asociadas a la muestra:
 
 **9.** ¿Cuántas secuencias mapearon en contra de Proteobacteria?
 
-*-*
+*-* Se mapearon 24.194 secuencias contra proteobacteria.
 
 **10.** ¿Cuántas secuencias de Salmonella (Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae) fueron identificadas? (Pista: level - genus)
 
-*-*
+*-* Fueron identificadas 72 secuencias de salmonella.
 
 
