@@ -12,11 +12,13 @@ Responde las siguientes preguntas asociadas a la muestra:
 
 **2.** ¿Qué tipo de plataforma de secuenciamiento fue usada para producir estos datos? 
 
-*-* amplicon sequence
+*-* amplicon sequenced
 
 **3.** ¿Cuántas secuencias pasaron el control de calidad? ¿A qué crees que se refiere esto?
 
-*-*
+*-* De las 120.671 secuencias todas pasaron el control de calidad.
+
+*-* Se refiere a que se deben generar clones de ADN de mi secuencia en grandes escalas para que cuando se este secuenciando, la maquina pueda detectar una señal robusta, especifica y correcta de esa adicion de nucleotido. A este proceso la maquina le da un valor de calidad a cada nucleotido detectado. 
 
 **4.** ¿Cuántos otros metagenomas están disponibles para el bioma “marine habitat”? 
 
