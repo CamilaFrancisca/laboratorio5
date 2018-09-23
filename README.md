@@ -12,7 +12,7 @@ Responde las siguientes preguntas asociadas a la muestra:
 
 **2.** ¿Qué tipo de plataforma de secuenciamiento fue usada para producir estos datos? 
 
-*-* amplicon sequenced
+*-* La plataforma de secuenciamento que se utilizo fue AB3730xl (Applied Biosystems).
 
 **3.** ¿Cuántas secuencias pasaron el control de calidad? ¿A qué crees que se refiere esto?
 
