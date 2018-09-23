@@ -8,11 +8,11 @@ Responde las siguientes preguntas asociadas a la muestra:
 		
 **1.** ¿Cuántas secuencias fueron subidas? 
 
-*-* Fueron 120.671 secuencnias subidas.
+*-* Fueron 120.671 secuencias subidas.
 
 **2.** ¿Qué tipo de plataforma de secuenciamiento fue usada para producir estos datos? 
 
-*-* La plataforma de secuenciamento que se utilizo fue AB3730xl (Applied Biosystems).
+*-* La plataforma de secuenciamiento que se utilizo fue AB3730xl (Applied Biosystems).
 
 **3.** ¿Cuántas secuencias pasaron el control de calidad? ¿A qué crees que se refiere esto?
 
@@ -34,7 +34,7 @@ Responde las siguientes preguntas asociadas a la muestra:
 
 **7.** ¿A cuántas secuencias se les asignó una función de acuerdo a la base de datos KEGG con un e-value entre -10 y -20? 
 
-*-* Se les asigno una funcion de acuerdo a la base de datos KEGG 7.960 anotaciones de reads con un e-value entre -10 y -20
+*-* Se les asigno una funcion de acuerdo a la base de datos KEGG 7.960 secuencias.
 
 **8.** ¿Por qué hay tan pocas secuencias con funciones asignadas según SwissProt? 
 
